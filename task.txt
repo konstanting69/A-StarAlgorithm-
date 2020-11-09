@@ -1,0 +1,2 @@
+In this project the task was to be used A* algorithm to find the shortest path between two nodes through a basic visualized grid.
+
